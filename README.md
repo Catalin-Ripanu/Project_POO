@@ -9,6 +9,8 @@ Defeat enemies, increase your level and your damage, earn gold, buy potions from
 
 The goal of the game is to find the final cell in the given map (each cell has it's own story).
 
+Note that the project's structure is in IntelliJ IDEA format.
+
 A picture which displays a generated map in GUI format.
 
 ![My Image](RPG_GUI.jpg)
