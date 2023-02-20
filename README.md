@@ -10,3 +10,5 @@ Defeat enemies, increase your level and your damage, earn gold, buy potions from
 The goal of the game is to find the final cell in the given map (each cell has it's own story).
 
 ![My Image](RPG_GUI.jpg)
+
+![My Image](RPG_log_in.jpg)
