@@ -11,4 +11,6 @@ The goal of the game is to find the final cell in the given map (each cell has i
 
 ![My Image](RPG_GUI.jpg)
 
+
+
 ![My Image](RPG_log_in.jpg)
