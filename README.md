@@ -7,7 +7,7 @@
 
 - Defeat enemies, increase your level and your damage, earn gold, buy potions from shops and be victorious!
 
-- The goal of the game is to find the final cell in the given map (each cell has it's own story).
+- The goal of the game is to find the final cell in the given map (each cell has it's own story shown).
 
 - Note that the project's structure is in IntelliJ IDEA format.
 
