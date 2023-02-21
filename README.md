@@ -15,6 +15,6 @@ A picture which displays a generated map in GUI format.
 
 ![My Image](RPG_GUI.jpg)
 
-A picture which shows the account request.
+A picture which shows the posibility of creating an account or logging in.
 
 ![My Image](RPG_log_in.jpg)
