@@ -1,5 +1,5 @@
 # RPG-Adventure-Game
-- Designed a Complex RPG based game using Java and JSON files for storing accounts used for logging in the game.
+- Designed a Complex RPG based game using Java and JSON files for storing accounts which are used for logging in.
 
 - Implemented a functionality which allows the player to choose between 2 game formats (GUI and CLI).
 
