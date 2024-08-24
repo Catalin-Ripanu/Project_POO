@@ -1,4 +1,4 @@
-# RPG-Adventure-Game
+# Project_POO
 
 - Designed a Complex RPG based game using Java and JSON files for storing accounts which are used for logging in.
 
