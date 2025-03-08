@@ -1,23 +1,54 @@
-# Project_POO
+# Role-Playing Game Implementation
 
-- Designed a Complex RPG based game using Java and JSON files for storing accounts which are used for logging in.
+## Project Overview
+This OOP project is a role-playing game designed and implemented using Java with JSON-based persistence for user authentication and account management. The architecture follows object-oriented principles to create an immersive gaming experience with multiple interface options.
 
-- Implemented a functionality which allows the player to choose between 2 game formats (GUI and CLI).
+## Technical Implementation
 
-- If GUI format is desired, the player can choose between a randomly generated map or a fixed map.
+### Core Features
+- **Dual Interface Architecture**: Implemented parallel user interface systems allowing players to select between a Graphical User Interface (GUI) or Command Line Interface (CLI) based on preference or system requirements.
+- **Dynamic Map Generation System**: Developed an algorithm for procedural map generation, creating unique gameplay experiences with each session while maintaining game balance.
+- **Persistence Layer**: Engineered a JSON-based data storage system for account management, allowing secure authentication and maintaining player progress between sessions.
+- **Cell-based Progression System**: Designed a state-driven narrative system where each map cell presents unique storyline elements and challenges as the player advances.
 
-- The goal of the game is to find the final cell in the given map (each cell shows its own story on GUI as you progress).
+### Technical Stack
+- **Primary Language**: Java
+- **Data Serialization**: JSON
+- **Development Environment**: IntelliJ IDEA
+- **Architecture Pattern**: Object-oriented design with MVC principles
 
-- Note that the project structure is in IntelliJ IDEA format. In order to run this app, you'll need to install it [1]
+## Gameplay Mechanics
 
-A picture which displays a generated map in GUI format.
+### Map Navigation
+Players progress through a cell-based map infrastructure with the objective of locating the final destination cell. Each navigational decision affects potential encounters and narrative progression.
 
-![My Image](RPG_GUI.jpg)
+### Combat System
+The implementation includes a comprehensive combat system with:
+- Dynamic enemy scaling based on player progression
+- Damage calculation algorithms accounting for player stats and equipment
+- Level progression system with performance-based experience allocation
 
-A picture which shows the posibility of logging in to an account or creating one.
+### Economic Framework
+- In-game currency (gold) acquisition through completed objectives
+- Transaction system for purchasing consumables from in-game merchants
+- Resource management requiring strategic decision-making
 
-![My Image](RPG_log_in.jpg)
+## Installation Requirements
+The project is structured for IntelliJ IDEA. To execute the application:
 
-Defeat enemies, increase your level and your damage, earn gold, buy potions from shops and be victorious!
+1. Install IntelliJ IDEA from the [official installation guide](https://www.jetbrains.com/help/idea/installation-guide.html)
+2. Import the project maintaining the existing directory structure
+3. Configure the appropriate JDK
+4. Execute the main class to initiate the game
 
-[1]: https://www.jetbrains.com/help/idea/installation-guide.html
+## Visual Demonstrations
+*Visualization of a procedurally generated map in the GUI mode with rendered environment elements*
+
+![RPG GUI Map Rendering](RPG_GUI.jpg)
+
+*User authentication interface demonstrating the account creation and login functionality*
+
+![Authentication Interface](RPG_log_in.jpg)
+
+## Strategic Objectives
+Defeat adversaries, advance through the level system to increase combat proficiency, accumulate currency, purchase consumable resources from merchants, and achieve victory conditions by reaching the final destination.
